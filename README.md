@@ -1,5 +1,3 @@
-React project using Next.js, Remult for database and NextAuth for login.
-
 ## install dependencies
 ```
 npm install
